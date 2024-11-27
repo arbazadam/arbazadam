@@ -1,8 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Fullstack Projects with React Frontend & Spring Backend
-- 💬 Ask me about Java related stuffs
-- ⚡ Fun fact: ... I wanted to be a web developer without learnig Javascript
+- 🌱 Anything and everything backend
 
 <!--
 **arbazadam/arbazadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
